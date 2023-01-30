@@ -162,7 +162,7 @@ tzlocal==4.2
 urllib3==1.26.9
 validators==0.20.0
 watchdog==2.1.9
-wcwidth==0.2.5
+wcwidth==0.2.6
 Werkzeug==2.1.1
 widgetsnbextension==4.0.2
 wincertstore==0.2
