@@ -11,7 +11,7 @@ grpcio==1.44.0
 idna==3.3
 importlib-metadata==4.11.3
 kiwisolver==1.4.2
-Markdown==3.3.6
+Markdown==3.5.1
 matplotlib==3.5.1
 numpy==1.21.5
 oauthlib==3.2.0
@@ -89,7 +89,7 @@ jupyter-client==7.3.4
 jupyter-core==4.11.1
 jupyterlab-widgets==3.0.2
 kiwisolver==1.4.2
-Markdown==3.3.6
+Markdown==3.5.1
 MarkupSafe==2.1.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.6
