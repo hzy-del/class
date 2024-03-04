@@ -164,6 +164,6 @@ validators==0.20.0
 watchdog==2.1.9
 wcwidth==0.2.5
 Werkzeug==2.1.1
-widgetsnbextension==4.0.2
+widgetsnbextension==4.0.10
 wincertstore==0.2
 zipp==3.8.0
