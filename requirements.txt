@@ -115,7 +115,7 @@ pycparser==2.21
 pydeck==0.7.1
 pyee==9.0.4
 Pygments==2.13.0
-pylibsrtp==0.7.1
+pylibsrtp==0.10.0
 Pympler==1.0.1
 pyparsing==3.0.8
 PyQt5==5.15.4
