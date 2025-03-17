@@ -93,7 +93,7 @@ Markdown==3.3.6
 MarkupSafe==2.1.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.6
-nest-asyncio==1.5.5
+nest-asyncio==1.6.0
 netifaces==0.11.0
 numpy==1.17.3
 oauthlib==3.2.0
